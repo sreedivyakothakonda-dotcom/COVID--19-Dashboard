@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing how the COVID-19 pandemic affected students' daily habits, mental health, stress levels, and online learning experiences.
 
-![COVID-19 Impact Dashboard](covid19_dashboard.png)
+![covid19_dashboard.png](https://github.com/sreedivyakothakonda-dotcom/COVID--19-Dashboard/blob/main/COVID%20-%2019%20Dashboard.png)
 
 ---
 
